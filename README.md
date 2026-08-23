@@ -8,3 +8,5 @@ ffffffffffffffff
 666666666666666666666
 
 topic-A
+topic-B
+
