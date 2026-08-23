@@ -1,11 +1,11 @@
 # git_test
 test
 
-ffffffffffffffff
-ああああああああ
+line4
+line5
+line6
 
-
-666666666666666666666
+line8
 
 topic-A
 topic-B
@@ -13,3 +13,5 @@ topic-B
 topic-C
 
 topic-D
+
+topic-E
